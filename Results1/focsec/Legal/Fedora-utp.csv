@@ -1,0 +1,17 @@
+45.137.83.90,is_datacenter
+212.102.57.89,is_vpn,is_datacenter
+81.171.5.232,is_datacenter
+98.128.173.1,is_tor
+91.121.79.59,is_datacenter
+185.65.134.252,is_vpn,is_bot,is_datacenter
+168.119.90.38,is_datacenter
+190.2.146.232,is_vpn,is_bot,is_datacenter
+91.193.6.10,is_vpn,is_datacenter
+146.70.58.131,is_vpn,is_bot,is_datacenter
+169.150.196.25,is_vpn,is_datacenter
+84.17.46.26,is_vpn,is_datacenter
+37.221.171.194,is_proxy,is_vpn,is_bot,is_datacenter
+45.134.142.200,is_vpn,is_datacenter
+185.192.69.74,is_datacenter
+185.65.135.217,is_proxy,is_vpn,is_datacenter
+84.17.46.18,is_vpn,is_datacenter
