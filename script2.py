@@ -5,7 +5,7 @@ import os
 import dns.resolver
 
 def script2(input_file_path, output_file_path):
-    api_key = 'opcgtveqnugh'
+    api_key = ''
 
     with open(input_file_path) as file:
         lines = [line.rstrip() for line in file]
