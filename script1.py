@@ -4,7 +4,7 @@ import csv
 import os
 
 def script1(input_file_path, output_file_path):
-    api_key = '2cf0ad6ba3c84f1687beda2a81ff911e'
+    api_key = ''
     headers = {'Authorization': api_key}
 
     with open(input_file_path) as file:
